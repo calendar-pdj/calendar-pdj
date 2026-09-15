@@ -1,1 +1,6 @@
-
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Job Calendar Sync//github-actions//
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Job Schedule
+END:VCALENDAR
